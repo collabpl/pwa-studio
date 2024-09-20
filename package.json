@@ -1,0 +1,9 @@
+{
+  "name": "@collabpl/pwa-studio",
+  "version": "1.0.0",
+  "description": "Set of utilities for PWA Studio",
+  "main": "src/index.js",
+  "repository": "https://github.com/collabpl/pwa-studio",
+  "author": "Marcin Jędrzejewski <m.jedrzejewski@collab.pl>",
+  "license": "MIT"
+}
